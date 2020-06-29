@@ -17,7 +17,7 @@ This code validates the formulae with numerical experiments in
 synthetic data.  A typical result is shown in the Figure below,
 which is Fig. 4 in the paper.
 
-![nonlinear simulation](https://github.com/melikaemami/Generalization-Error-of-GLMs/blob/master/nonlinear_sim_v1.png=2400x1800)
+![nonlinear simulation](https://github.com/melikaemami/Generalization-Error-of-GLMs/blob/master/nonlinear_sim_v1.png=4800x3600)
 
 *Figure.  Median MSE on simulation of a nonlinear model along with the theoretical
  value from the SE predictions*
