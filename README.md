@@ -6,7 +6,7 @@ the generaliation error of generalized linear models (GLMs)
 in high-dimensional limits.  The code produces the plots 
 in the paper:
 
-> "Generalization Error of Generalized Linear Models in High Dimensions",
+> "Generalization Error of Generalized Linear Models in High Dimensions", https://arxiv.org/abs/2005.00180
 
 Generalization error is a measure of how well a learned model
 performs on previously unseen data, a basic goal in machine learning.
