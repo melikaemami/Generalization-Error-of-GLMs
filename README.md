@@ -17,7 +17,7 @@ This code validates the formulae with numerical experiments in
 synthetic data.  A typical result is shown in the Figure below,
 which is Fig. 4 in the paper.
 
-![nonlinear simulation](nonlinear_sim.png =400x320)
+![nonlinear simulation](nonlinear_sim_v1.png =400x320)
 
 *Figure.  Median MSE on simulation of a nonlinear model along with the theoretical
  value from the SE predictions*
