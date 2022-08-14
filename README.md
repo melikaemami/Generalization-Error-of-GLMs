@@ -98,11 +98,11 @@ Similarly for the logistic model,
 For the non-linear model run,
 ```bash
     python gen_test.py --test_type nonlinear --dist_type const\
-        --mod_pkg tf --save_dat --save_dir data_logistic
+        --mod_pkg tf --save_dat --save_dir data_nonlinear
     python gen_test.py --test_type logistic --dist_type logn --corr 1\
-        --mod_pkg tf --save_dat --save_dir data_logistic
+        --mod_pkg tf --save_dat --save_dir data_nonlinear
     python gen_test.py --test_type logistic --dist_type logn --corr 0.5\
-        --mod_pkg tf --save_dat --save_dir data_logistic
+        --mod_pkg tf --save_dat --save_dir data_nonlinear
 ```
 Note that the non-linear model uses the `--mod_pkg tf` option 
 to fit using Tensorflow.
